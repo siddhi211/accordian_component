@@ -76,3 +76,5 @@ return (
 ## div (content):
 - Shows the section’s content.
 - Adds an active class if the section is open (for styling).
+
+  ![image](https://github.com/user-attachments/assets/0f624036-7e31-4748-a93e-310bbb461349)
